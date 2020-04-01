@@ -22,4 +22,4 @@
  spark = SparkSession.builder.master("local[*]").getOrCreate()
 ```
 
-Video Walkthrough Here
+[Video Walkthrough Here](https://youtu.be/4qhKCSpS7Sc)

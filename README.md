@@ -2,6 +2,7 @@
 
 # Instructions
 * open a colab notebook at [colab.research.google.com](colab.research.google.com)
+* connect to a hosted runtime
 * paste the following into a notebook cell
  ```python
  !apt-get install openjdk-8-jdk-headless -qq > /dev/null
